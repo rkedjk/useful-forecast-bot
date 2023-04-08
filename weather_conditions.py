@@ -1,4 +1,4 @@
-import weathermath as wmh
+import weather_math as wmh
 
 class WeatherConditions:
 

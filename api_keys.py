@@ -6,3 +6,4 @@ class OpenWeatherApiKeys:
 class TelegramBotApiKeys:
     API_KEY = "6269016915:AAFAYUrUxVVFbW-76pkKj84OwVv13xgGZFw"
     API_KEY_DEV = "6210980997:AAGBKxIh_PdUP5fzNJPLLnAdxhcEFGI4Avo"
+    CHAT_ID = "710621392"
